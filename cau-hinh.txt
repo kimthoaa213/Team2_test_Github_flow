@@ -1,3 +1,1 @@
 Đây là file cấu hình
-chiều dài: 30
-chiều rộng: 40
